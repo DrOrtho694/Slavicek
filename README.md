@@ -3,7 +3,7 @@ pandas
 matplotlib
 numpy
 pydicom
-tensorflow==2.9.0
-opencv-python
+tensorflow-cpu==2.9.0
+opencv-python-headless
 scikit-learn
 sqlalchemy
