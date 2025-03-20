@@ -1,1 +1,9 @@
-# Slavicek
+streamlit
+pandas
+matplotlib
+sqlite3
+pydicom
+tensorflow
+opencv-python
+scikit-learn
+sqlalchemy
