@@ -1,9 +1,9 @@
 streamlit
 pandas
 matplotlib
-sqlite3
+numpy
 pydicom
-tensorflow
+tensorflow==2.9.0
 opencv-python
 scikit-learn
 sqlalchemy
